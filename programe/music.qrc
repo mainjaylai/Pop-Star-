@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>消灭星星素材/music/music1.mp3</file>
+        <file>消灭星星素材/music/music2.mp3</file>
+        <file>消灭星星素材/music/music3.mp3</file>
+        <file>消灭星星素材/music/music4.mp3</file>
+        <file>消灭星星素材/游戏中音效/消除方块声/ci.wav</file>
+        <file>消灭星星素材/游戏中音效/游戏开始结束声/游戏失败（得分低2）.wav</file>
+        <file>消灭星星素材/游戏中音效/游戏开始结束声/游戏开始（新的一关）.mp3</file>
+        <file>消灭星星素材/music/欢呼.mp4</file>
+        <file>消灭星星素材/游戏中音效/游戏开始结束声/游戏失败（得分低3）.mp3</file>
+        <file>消灭星星素材/music/过关.mp4</file>
+        <file>消灭星星素材/music/fire.mp3</file>
+        <file>消灭星星素材/music/ex.mp3</file>
+        <file>消灭星星素材/music/un.mp3</file>
+        <file>消灭星星素材/music/开场.mp3</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>消灭星星素材/欢呼的gif/欢呼3.gif</file>
+        <file>消灭星星素材/欢呼的gif/背景.gif</file>
+        <file>消灭星星素材/欢呼的gif/欢呼5.gif</file>
+        <file>消灭星星素材/欢呼的gif/欢呼4.gif</file>
+        <file>消灭星星素材/欢呼的gif/欢呼2.gif</file>
+        <file>消灭星星素材/欢呼的gif/欢呼7.gif</file>
+        <file>消灭星星素材/欢呼的gif/开场.gif</file>
+    </qresource>
+    <qresource prefix="/tupian">
+        <file>tipian/blue.jpg</file>
+        <file>tipian/green.jpg</file>
+        <file>tipian/pink.jpg</file>
+        <file>tipian/red.jpg</file>
+        <file>tipian/purple.jpg</file>
+        <file>tipian/whrite.jpg</file>
+        <file>tipian/背景图片480x640.png</file>
+        <file>tipian/控件.jpg</file>
+        <file>tipian/消灭星星.png</file>
+        <file>tipian/yellow.jpg</file>
+        <file>tipian/图标副本.jpg</file>
+        <file>tipian/二维码.png</file>
+    </qresource>
+</RCC>
